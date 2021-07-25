@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>docker</finalName>
+    <finalName>dockers</finalName>
   </build>
 </project>
